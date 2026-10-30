@@ -19,7 +19,7 @@ funcsigs==1.0.2
 future==0.16.0
 gast==0.2.0
 gitdb2==2.0.4
-GitPython==2.1.11
+GitPython==3.2.1
 google-compute-engine==2.8.2
 grpcio==1.14.2
 gym==0.10.5
