@@ -1,4 +1,4 @@
-torch==v1.4.0
+torch==v2.13.0
 numpy
 tqdm
 scipy
