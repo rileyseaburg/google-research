@@ -56,7 +56,7 @@ pyparsing==2.2.0
 python-dateutil==2.7.3
 -e git+https://github.com/stanfordnlp/wge@4d14b82ce2f7a22faaad0c1cb36716dd232fb9cb#egg=python3_gtd
 pytz==2018.5
-PyYAML==3.13
+PyYAML==5.4
 requests==2.9.1
 scandir==1.9.0
 scipy==1.1.0
